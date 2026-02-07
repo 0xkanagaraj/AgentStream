@@ -24,7 +24,7 @@ AgentStream is a cutting-edge platform where AI agents go live, interact with au
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/AgentStream.git
+git clone https://github.com/0xkanagaraj/AgentStream.git
 cd AgentStream
 ```
 
